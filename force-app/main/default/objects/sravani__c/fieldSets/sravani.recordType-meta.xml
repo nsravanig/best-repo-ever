@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>sravani</fullName>
+    <active>true</active>
+    <label>sravani</label>
+    <picklistValues>
+        <picklist>sravanip__c</picklist>
+        <values>
+            <fullName>sravani</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>sravanin</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>sravanis</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>sravanipp__c</picklist>
+        <values>
+            <fullName>sravani</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>sravania</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
